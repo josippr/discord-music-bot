@@ -16,8 +16,9 @@ Available commands:<br><br>
   /resume - resume song<br>
   /queue - return first 10 songs in queue<br>
 <br>
+
 --------------------------------------
-Version 1.1<br>
+<br>Version 1.1<br>
 updated October 29th 2022<br>
 <br>
 - Fixed kick glitch
@@ -32,8 +33,9 @@ Available commands:<br>
   /pause - pause song<br>
   /resume - resume song<br>
 <br>
+
 --------------------------------------
-Version 1.0<br>
+<br>Version 1.0<br>
 updated October 28th 2022<br>
 <br>
 Available commands: <br>
