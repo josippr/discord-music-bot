@@ -24,7 +24,7 @@ updated October 29th 2022<br>
 - Reworked bot messages
 - Added commands /Skip, /Pause, /Resume
 <br>
-**Available commands:<br>
+Available commands:<br>
   /play - play the song<br>
   /stop - stop the song<br>
   /exit - kick bot from voice channel<br>
