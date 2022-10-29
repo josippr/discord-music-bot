@@ -9,7 +9,6 @@ updated October 30th 2022<br>
 
 Available commands:<br><br>
   /play - play the song<br>
-  /stop - stop the song<br>
   /exit - kick bot from voice channel<br>
   /skip - skip current song<br>
   /pause - pause song<br>
@@ -27,7 +26,6 @@ updated October 29th 2022<br>
 <br>
 Available commands:<br>
   /play - play the song<br>
-  /stop - stop the song<br>
   /exit - kick bot from voice channel<br>
   /skip - skip current song<br>
   /pause - pause song<br>
@@ -37,9 +35,9 @@ Available commands:<br>
 --------------------------------------
 ## Version 1.0<br>
 updated October 28th 2022<br>
+Initial prototype, only /play and /exit commands were implemented
 <br>
 Available commands: <br>
   /play - play the song<br>
-  /stop - stop the song<br>
   /exit - kick bot from voice channel<br>
  
