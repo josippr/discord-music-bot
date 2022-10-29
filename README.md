@@ -18,7 +18,7 @@ Available commands:<br><br>
 <br>
 
 --------------------------------------
-<br>## Version 1.1<br>
+## Version 1.1<br>
 updated October 29th 2022<br>
 <br>
 - Fixed kick glitch
@@ -35,7 +35,7 @@ Available commands:<br>
 <br>
 
 --------------------------------------
-<br>## Version 1.0<br>
+## Version 1.0<br>
 updated October 28th 2022<br>
 <br>
 Available commands: <br>
