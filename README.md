@@ -8,8 +8,8 @@ updated October 30th 2022
 - Added command /queue - returns first 10 songs from queue in string format: ```1) [3:25] \' Thunderstruck - @disc_user```
 
 **Available commands:
-  /play - play the song
-  /stop - stop the song
+  /play - play the song<br>
+  /stop - stop the song<br>
   /exit - kick bot from voice channel
   /skip - skip current song
   /pause - pause song
