@@ -1,7 +1,7 @@
 # discord-music-bot
 Discord music bot made with Discord JS
 --------------------------------------
-#Version 1.2<br>
+Version 1.2<br>
 updated October 30th 2022<br>
 <br>
 - Reworked bot messages
@@ -17,7 +17,7 @@ Available commands:<br><br>
   /queue - return first 10 songs in queue<br>
 <br>
 --------------------------------------
-#Version 1.1<br>
+Version 1.1<br>
 updated October 29th 2022<br>
 <br>
 - Fixed kick glitch
@@ -33,7 +33,7 @@ Available commands:<br>
   /resume - resume song<br>
 <br>
 --------------------------------------
-**#Version 1.0<br>
+Version 1.0<br>
 updated October 28th 2022<br>
 <br>
 Available commands: <br>
